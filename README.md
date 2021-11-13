@@ -214,4 +214,4 @@ Visit My Portfolio:[Here](https://gianlucavenditti.com/)
 [linkedin-url]: https://www.linkedin.com/in/gianlucavenditti-/
 [twitter-url]: https://twitter.com/GianlucaVend
 [insta-url]: https://www.instagram.com/gianlucavend/
-[product-screenshot]: images/luca.png
+[product-screenshot]: images/venditti.png
