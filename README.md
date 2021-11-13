@@ -19,10 +19,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Personal Portfolio Version 2</h3>
+<h3 align="center">Personal Portfolio Version 1</h3>
 
   <p align="center">
-    The purpose of this project was to create a clean portfolio and continue to learn React.js
+    The purpose of this project was to create a portfolio website for fun. 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,7 +65,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 -->
 
 ### Built With
-[NEXT.js](https://www.javascript.com/) <br>
+[Bootstrap](https://getbootstrap.com)
+[Javascript](https://www.javascript.com/) <br>
 
 <!--
 * [Next.js](https://nextjs.org/)
@@ -120,20 +121,21 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Personal Portfolio Version 2.
+Personal Portfolio Version 1.
 
 
 _For more examples, please refer to the [Documentation](https://docs.djangoproject.com/en/3.2/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ROADMAP -->
+<!--
+    - [] Nested Feature
 ## Roadmap
-- Hero
+- Header section
 - Projects section
 - Technologies
 - About & Education section
-
+-->
 <!--
     - [] Nested Feature
 -->
