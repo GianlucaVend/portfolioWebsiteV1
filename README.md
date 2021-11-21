@@ -19,6 +19,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
+  
+  
 <h3 align="center">Personal Portfolio Version 1</h3>
 
   <p align="center">
